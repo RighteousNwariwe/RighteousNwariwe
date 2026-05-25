@@ -7,7 +7,7 @@
 </p>
 
 ## 📌 About Me
-- IT graduate passionate about software and data solutions.
+- BSc IT graduate passionate about software and data solutions.
 - Interested in software, cloud, and data roles.
 - Skilled in Python, SQL, JavaScript, and Firebase.
 - Experienced in analytics and reporting systems.
