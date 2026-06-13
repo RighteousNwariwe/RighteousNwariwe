@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Righteous%20Nwariwe&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20developer%20%7C%20Data%20Scientist&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Righteous%20Nwariwe&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20developer%20%7C%20Data%20Analyst&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=RighteousNwariwe">
